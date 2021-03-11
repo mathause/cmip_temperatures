@@ -1,6 +1,6 @@
 # Mean temperature anomalies for CMIP5 and CMIP6
 
-Document mean temperature anomalies for time periods in cmip5 and cmip6 data
+Document mean temperature anomalies for time periods in cmip5 and cmip6 data. Check the [global warming levels](https://github.com/mathause/cmip_warming_levels) repository for a list of the year when a certain global warming level is reached.
 
 *Mathias Hauser*<sup>1</sup>
 
@@ -8,7 +8,7 @@ Document mean temperature anomalies for time periods in cmip5 and cmip6 data
 
 ## Disclaimer
 
-This data archive is created and maintained in an voluntary effort by its creators. The data are provided without warranty of any kind. Please note that the ownership of all files in the archive remains with the original providers! That means you should still acknowledge the CMIP6 data providers. This work is published under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) licenses by the authors. If you use the this archive please cite TODO.
+This data archive is created and maintained in an voluntary effort by its creators. The data are provided without warranty of any kind. Please note that the ownership of all files in the archive remains with the original providers! That means you should still acknowledge the CMIP6 data providers. This work is published under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license by the authors. If you use the this archive please cite TODO.
 
 ## Multi model mean
 
@@ -16,7 +16,7 @@ This data archive is created and maintained in an voluntary effort by its creato
 
 ### CMIP6
 
-Table 1: Multi-model mean global-mean temperatures for selected time periods and shared socioeconomic pathways (SSPs). Number in brackets indicates number of models in the ensemble. The same information can be found in a csv file [cmip6_mmm_temperatures_one_ens_1850_1900.csv](cmip6_mmm_temperatures_one_ens_1850_1900.csv).
+**Table 1**: Multi-model mean global-mean temperatures for selected time periods and shared socioeconomic pathways (SSPs). Number in brackets indicates number of models in the ensemble. The same information can be found in a csv file [cmip6_mmm_temperatures_one_ens_1850_1900.csv](cmip6_mmm_temperatures_one_ens_1850_1900.csv).
 
 | period    |   SSP1-1.9 (14) |   SSP1-2.6 (41) |   SSP2-4.5 (42) |   SSP3-7.0 (35) |   SSP5-8.5 (44) |
 |:----------|----------------:|----------------:|----------------:|----------------:|----------------:|
@@ -38,7 +38,7 @@ Table 1: Multi-model mean global-mean temperatures for selected time periods and
 
 ### CMIP5
 
-Table 1: Multi-model mean global-mean temperatures for selected time periods and shared socioeconomic pathways (SSPs). Number in brackets indicates number of models in the ensemble. The same information can be found in a csv file [cmip6_mmm_temperatures_one_ens_1850_1900.csv](cmip6_mmm_temperatures_one_ens_1850_1900.csv).
+**Table 2**: Multi-model mean global-mean temperatures for selected time periods and representative concentration pathways (RCPs). Number in brackets indicates number of models in the ensemble. The same information can be found in a csv file [cmip6_mmm_temperatures_one_ens_1850_1900.csv](cmip6_mmm_temperatures_one_ens_1850_1900.csv).
 
 | period    |   RCP2.6 (21) |   RCP4.5 (30) |   RCP6.0 (14) |   RCP8.5 (32) |
 |:----------|--------------:|--------------:|--------------:|--------------:|
