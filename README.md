@@ -38,7 +38,7 @@ This data archive is created and maintained in an voluntary effort by its creato
 
 ### CMIP5
 
-**Table 2**: Multi-model mean global-mean temperatures for selected time periods and representative concentration pathways (RCPs). Number in brackets indicates number of models in the ensemble. The same information can be found in a csv file [cmip6_mmm_temperatures_one_ens_1850_1900.csv](cmip6_mmm_temperatures_one_ens_1850_1900.csv).
+**Table 2**: Multi-model mean global-mean temperatures for selected time periods and representative concentration pathways (RCPs). Number in brackets indicates number of models in the ensemble. The same information can be found in a csv file [cmip5_mmm_temperatures_one_ens_1850_1900.csv](cmip5_mmm_temperatures_one_ens_1850_1900.csv).
 
 | period    |   RCP2.6 (21) |   RCP4.5 (30) |   RCP6.0 (14) |   RCP8.5 (32) |
 |:----------|--------------:|--------------:|--------------:|--------------:|
