@@ -72,10 +72,16 @@ CNRM-ESM2-1, r1i1p1f2, ssp119, global_mean, Amon, gr, tas, 2021-2040, 1.32
 CanESM5, r1i1p1f1, ssp119, global_mean, Amon, gn, tas, 2021-2040, 2.16
 ...
 ```
+
+### Files
+
+There are two files with [cmip6](temperatures/cmip6/csv/) data. One with one ensemble member per model and one with all ensemble members. For [cmip5](temperatures/cmip5/csv/) two additional files are provided. The reference period is 1850 to 1900, however, many cmip5 models only start after 1850 and are therefore excluded. These models are also included in the `*_no_bounds_check.yml` files.
+
 ## Data
  * Monthly temperature data (variable: `tas`, Table ID: `Lmon`) for `historical` and
    * `RCP2.6`, `RCP4.5`, `RCP6.0`, and `RCP8.5` (CMIP5)
    * `SSP1-1.9`, `SSP1-2.6`, `SSP2-4.5`, `SSP3-7.0`, and `SSP5-8.5` (CMIP6)
+ * Grid-cell area for atmospheric grid variables (`areacella`)
 
 ## Method
 To calculate the temperature anomalies the following method is used for every individual model:
