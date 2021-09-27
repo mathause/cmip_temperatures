@@ -2,7 +2,7 @@
 
 Document raw (unassessed) mean temperature anomalies for time periods in cmip5 and cmip6 data. Check the [global warming levels](https://github.com/mathause/cmip_warming_levels) repository for a list of the year when a certain global warming level is reached.
 
-:warning: Version 0.1.0 had an issue with the 10-year means (see [CHANGELOG.md](CHANGELOG.md)). This is fixed in version 0.2.0.
+:warning: Version 0.1.0 had an issue with the 10-year means (see [CHANGELOG.md](CHANGELOG.md)). This is fixed in version 0.2.1.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5532879.svg)](https://doi.org/10.5281/zenodo.5532879)
 

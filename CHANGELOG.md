@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.1 (27.09.2021)
+
+* Also fix the numbers on the README.md page.
+
 ## v0.2.0 (27.09.2021)
 
 * Fixed a bug with **all** the 10-year averages. A thanks to Boris Sakschewski for
