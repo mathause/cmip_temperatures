@@ -4,7 +4,7 @@ Document raw (unassessed) mean temperature anomalies for time periods in cmip5 a
 
 :warning: Version 0.1.0 had an issue with the 10-year means (see [CHANGELOG.md](CHANGELOG.md)). This is fixed in version 0.2.0.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5532879.svg)](https://doi.org/10.5281/zenodo.5532879)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5532894.svg)](https://doi.org/10.5281/zenodo.5532894)
 
 *Mathias Hauser*<sup>1</sup>
 
@@ -12,7 +12,7 @@ Document raw (unassessed) mean temperature anomalies for time periods in cmip5 a
 
 ## Disclaimer
 
-This data archive is created and maintained in an voluntary effort by its creators. The data are provided without warranty of any kind. Please note that the ownership of all files in the archive remains with the original providers! That means you should still acknowledge the CMIP6 data providers. This work is published under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license by the authors. If you use the this archive please cite [10.5281/zenodo.5532879](https://doi.org/10.5281/zenodo.5532879).
+This data archive is created and maintained in an voluntary effort by its creators. The data are provided without warranty of any kind. Please note that the ownership of all files in the archive remains with the original providers! That means you should still acknowledge the CMIP6 data providers. This work is published under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license by the authors. If you use the this archive please cite [10.5281/zenodo.5532894](https://doi.org/10.5281/zenodo.5532894).
 
 ## Multi model mean
 
