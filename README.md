@@ -19,7 +19,7 @@ This data archive is created and maintained in an voluntary effort by its creato
 :warning: **The numbers in the IPCC AR6 report are different from the ones presented here due to methodological differences.**
 
 The Working Group I (WGI) contribution to the Sixth Assessment Report (AR6) of the Intergovernmental Panel on Climate Change (IPCC) also lists changes in global surface temperature. For example in the Summary for Policymakers (SPM) in Table SPM.1 and Figure SPM.8.
-The official numbers in the IPCC represent an assessed based on multiple lines of evidence (e.g. observational data is used to perform a model weighting) - see details in the IPCC report. The numbers presented here are only based on the model data.
+The official numbers in the IPCC represent an assessment based on multiple lines of evidence (e.g. observational data is used to perform a model weighting) - see details in the IPCC report. The numbers presented here are only based on the model data.
 
 ## Multi model mean
 
