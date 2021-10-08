@@ -12,7 +12,14 @@ Document raw (unassessed) mean temperature anomalies for time periods in cmip5 a
 
 ## Disclaimer
 
-This data archive is created and maintained in an voluntary effort by its creators. The data are provided without warranty of any kind. Please note that the ownership of all files in the archive remains with the original providers! That means you should still acknowledge the CMIP6 data providers. This work is published under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license by the authors. If you use the this archive please cite [10.5281/zenodo.5532894](https://doi.org/10.5281/zenodo.5532894).
+This data archive is created and maintained in an voluntary effort by its creators. The data are provided without warranty of any kind. Please note that the ownership of all files in the archive remains with the original providers! That means you should still acknowledge the data providers. This work is published under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license by the authors. If you use the this archive please cite [10.5281/zenodo.5532894](https://doi.org/10.5281/zenodo.5532894).
+
+## Differences to IPCC AR6 WGI report
+
+:warning: **The numbers in the IPCC AR6 report are different from the ones presented here due to methodological differences.**
+
+The Working Group I (WGI) contribution to the Sixth Assessment Report (AR6) of the Intergovernmental Panel on Climate Change (IPCC) also lists changes in global surface temperature. For example in the Summary for Policymakers (SPM) in Table SPM.1 and Figure SPM.8.
+The official numbers in the IPCC represent an assessed based on multiple lines of evidence (e.g. observational data is used to perform a model weighting) - see details in the IPCC report. The numbers presented here are only based on the model data.
 
 ## Multi model mean
 
