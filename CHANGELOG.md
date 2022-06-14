@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.3.0 (unreleased)
+
+* Added absolute temperatures for the reference period.
+
 ## v0.2.1 (27.09.2021)
 
 * Also fix the numbers on the README.md page.
