@@ -1,3 +1,0 @@
-#!/bin/bash
-
-cp -aru ../IPCC_AR6_CH11/cmip_temperatures/* .
