@@ -103,7 +103,8 @@ To calculate the temperature anomalies the following method is used for every in
  5. Calculate the mean over the indicated time period
 
 ## Code
-The code will be published in https://github.com/IPCC-WG1 as soon as I have the right to create a repository.
+
+The code is available under https://github.com/IPCC-WG1/Chapter-11/tree/main/code/cmip_temperatures.ipynb.
 
 ## Changelog
 
