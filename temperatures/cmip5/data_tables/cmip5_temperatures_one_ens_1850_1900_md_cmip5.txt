@@ -4,6 +4,7 @@ CMIP5.output.NSF-DOE-NCAR.CESM1-CAM5.historical;mon;atmos;Amon;r1i1p1;none;tas;a
 CMIP5.output.CNRM-CERFACS.CNRM-CM5.historical;mon;atmos;Amon;r1i1p1;none;tas;8c2d930d-9d2d-47a0-a8f6-3b5ddf050a64;rcp26,rcp45,rcp85
 CMIP5.output.CSIRO-QCCCE.CSIRO-Mk3-6-0.historical;mon;atmos;Amon;r1i1p1;none;tas;52daaf12-1d6b-4126-83e0-63c7ee42e0aa;rcp26,rcp45,rcp60,rcp85
 CMIP5.output.CCCma.CanESM2.historical;mon;atmos;Amon;r1i1p1;none;tas;7ddaef12-497a-4354-bfd9-f113ef6dfaee;rcp26,rcp45,rcp85
+CMIP5.output.ICHEC.EC-EARTH.historical;mon;atmos;Amon;r8i1p1;none;tas;15550391-fe3e-4848-903e-90a1a5651b99;rcp26
 CMIP5.output.LASG-CESS.FGOALS-g2.historical;mon;atmos;Amon;r1i1p1;none;tas;d69b8b35-1aae-435f-97ec-fb33cdef7278;rcp26,rcp45,rcp85
 CMIP5.output.FIO.FIO-ESM.historical;mon;atmos;Amon;r1i1p1;none;tas;316551b4-fa90-42c1-9f43-ab81dec5decf;rcp26,rcp45,rcp60,rcp85
 CMIP5.output.NASA-GISS.GISS-E2-H.historical;mon;atmos;Amon;r1i1p1;none;tas;f8d45b41-e94a-45cb-a248-1bca028fa256;rcp26,rcp45,rcp60,rcp85
@@ -76,6 +77,7 @@ CMIP5.output.CSIRO-QCCCE.CSIRO-Mk3-6-0.historical;mon;atmos;Amon;r1i1p1;none;tas
 CMIP5.output.CCCma.CanESM2.historical;mon;atmos;Amon;r1i1p1;none;tas;7ddaef12-497a-4354-bfd9-f113ef6dfaee;rcp26,rcp45,rcp85
 CMIP5.output.ICHEC.EC-EARTH.historical;mon;atmos;Amon;r1i1p1;none;tas;c14c50e4-51ea-4803-b99f-36e96152a27c;rcp45,rcp85
 CMIP5.output.LASG-CESS.FGOALS-g2.historical;mon;atmos;Amon;r1i1p1;none;tas;d69b8b35-1aae-435f-97ec-fb33cdef7278;rcp26,rcp45,rcp85
+CMIP5.output.LASG-IAP.FGOALS-s2.historical;mon;atmos;Amon;r3i1p1;none;tas;52ce2614-ece9-40d4-8493-9c14d063e1d4;rcp85
 CMIP5.output.FIO.FIO-ESM.historical;mon;atmos;Amon;r1i1p1;none;tas;316551b4-fa90-42c1-9f43-ab81dec5decf;rcp26,rcp45,rcp60,rcp85
 CMIP5.output.NASA-GISS.GISS-E2-H-CC.historical;mon;atmos;Amon;r1i1p1;none;tas;84706058-558c-44f9-8456-882068cc03e0;rcp45,rcp85
 CMIP5.output.NASA-GISS.GISS-E2-H.historical;mon;atmos;Amon;r1i1p1;none;tas;f8d45b41-e94a-45cb-a248-1bca028fa256;rcp26,rcp45,rcp60,rcp85
@@ -93,14 +95,13 @@ CMIP5.output.NCC.NorESM1-M.historical;mon;atmos;Amon;r1i1p1;none;tas;c1dd6def-d6
 CMIP5.output.BCC.bcc-csm1-1-m.historical;mon;atmos;Amon;r1i1p1;none;tas;d849373d-164d-4438-bd68-274d20a4df66;rcp26,rcp45,rcp60,rcp85
 CMIP5.output.BCC.bcc-csm1-1.historical;mon;atmos;Amon;r1i1p1;none;tas;2ccf4c16-f21b-42f4-80d1-0dd0f131e922;rcp26,rcp45,rcp60,rcp85
 CMIP5.output.INM.inmcm4.historical;mon;atmos;Amon;r1i1p1;none;tas;e7332905-fc3a-46f2-b462-6034b92bfeb0;rcp45,rcp85
-CMIP5.output.LASG-IAP.FGOALS-s2.historical;mon;atmos;Amon;r3i1p1;none;tas;52ce2614-ece9-40d4-8493-9c14d063e1d4;rcp85
-CMIP5.output.ICHEC.EC-EARTH.historical;mon;atmos;Amon;r8i1p1;none;tas;15550391-fe3e-4848-903e-90a1a5651b99;rcp26
 CMIP5.output.BNU.BNU-ESM.rcp26;mon;atmos;Amon;r1i1p1;none;tas;9c4e2142-ccae-41b6-b53e-8a9e0894a71d;rcp26
 CMIP5.output.NCAR.CCSM4.rcp26;mon;atmos;Amon;r1i1p1;none;tas;bfa6e705-7013-4e99-8da3-b051da565fcb;rcp26
 CMIP5.output.NSF-DOE-NCAR.CESM1-CAM5.rcp26;mon;atmos;Amon;r1i1p1;none;tas;fe999c49-df99-4fa1-bee6-38d552b8cf7d;rcp26
 CMIP5.output.CNRM-CERFACS.CNRM-CM5.rcp26;mon;atmos;Amon;r1i1p1;none;tas;6d7daeb9-38e4-41d3-bc29-b6adaf1138be;rcp26
 CMIP5.output.CSIRO-QCCCE.CSIRO-Mk3-6-0.rcp26;mon;atmos;Amon;r1i1p1;none;tas;5cbfb83b-10c1-4cae-8cfa-303b6b8c355b;rcp26
 CMIP5.output.CCCma.CanESM2.rcp26;mon;atmos;Amon;r1i1p1;none;tas;a1d8ee4d-d4ff-4d8f-987e-dd6a4c4a0c9e;rcp26
+CMIP5.output.ICHEC.EC-EARTH.rcp26;mon;atmos;Amon;r8i1p1;none;tas;d428eb54-74ac-4b3e-96d0-d843313831da;rcp26
 CMIP5.output.LASG-CESS.FGOALS-g2.rcp26;mon;atmos;Amon;r1i1p1;none;tas;dd337f9b-db2f-4dc6-99da-e96654a465b9;rcp26
 CMIP5.output.FIO.FIO-ESM.rcp26;mon;atmos;Amon;r1i1p1;none;tas;71108a3f-30c8-4a97-855b-2a4368f3b81e;rcp26
 CMIP5.output.NASA-GISS.GISS-E2-H.rcp26;mon;atmos;Amon;r1i1p1;none;tas;cf091d22-cdec-4f25-a818-360195801799;rcp26
@@ -115,7 +116,6 @@ CMIP5.output.NCC.NorESM1-ME.rcp26;mon;atmos;Amon;r1i1p1;none;tas;fd266701-a253-4
 CMIP5.output.NCC.NorESM1-M.rcp26;mon;atmos;Amon;r1i1p1;none;tas;20e93e0e-d881-4cd4-80df-3ab6ee0a664e;rcp26
 CMIP5.output.BCC.bcc-csm1-1-m.rcp26;mon;atmos;Amon;r1i1p1;none;tas;7ad28890-3980-47b0-b627-6c69f001569a;rcp26
 CMIP5.output.BCC.bcc-csm1-1.rcp26;mon;atmos;Amon;r1i1p1;none;tas;e4872520-58f0-4266-ba20-b066365d2840;rcp26
-CMIP5.output.ICHEC.EC-EARTH.rcp26;mon;atmos;Amon;r8i1p1;none;tas;d428eb54-74ac-4b3e-96d0-d843313831da;rcp26
 CMIP5.output.CSIRO-BOM.ACCESS1-0.rcp45;mon;atmos;Amon;r1i1p1;none;tas;e533295a-be80-42e9-80f6-e8349b179486;rcp45
 CMIP5.output.CSIRO-BOM.ACCESS1-3.rcp45;mon;atmos;Amon;r1i1p1;none;tas;b7d0a584-8d97-4904-a36c-ae2a22ff28b2;rcp45
 CMIP5.output.BNU.BNU-ESM.rcp45;mon;atmos;Amon;r1i1p1;none;tas;554dd8e6-2065-401b-93bf-ebfd1374d2df;rcp45
@@ -174,6 +174,7 @@ CMIP5.output.CSIRO-QCCCE.CSIRO-Mk3-6-0.rcp85;mon;atmos;Amon;r1i1p1;none;tas;e9b2
 CMIP5.output.CCCma.CanESM2.rcp85;mon;atmos;Amon;r1i1p1;none;tas;d1543182-7f3d-4f46-897d-dd709c7d01aa;rcp85
 CMIP5.output.ICHEC.EC-EARTH.rcp85;mon;atmos;Amon;r1i1p1;none;tas;9cf280aa-d8e7-4426-976d-b02c82efe6ed;rcp85
 CMIP5.output.LASG-CESS.FGOALS-g2.rcp85;mon;atmos;Amon;r1i1p1;none;tas;9517a53d-ec4d-44dd-aaeb-611d9706ccaa;rcp85
+CMIP5.output.LASG-IAP.FGOALS-s2.rcp85;mon;atmos;Amon;r3i1p1;none;tas;8226df47-de5e-4587-af60-88a49908466f;rcp85
 CMIP5.output.FIO.FIO-ESM.rcp85;mon;atmos;Amon;r1i1p1;none;tas;d6ac5b0a-830d-4881-a7fc-0b32e57e297b;rcp85
 CMIP5.output.NASA-GISS.GISS-E2-H-CC.rcp85;mon;atmos;Amon;r1i1p1;none;tas;d0dbbe47-5e88-40e9-8dac-22506a949274;rcp85
 CMIP5.output.NASA-GISS.GISS-E2-H.rcp85;mon;atmos;Amon;r1i1p1;none;tas;725701df-f3d2-418c-be81-c66becb05199;rcp85
@@ -191,4 +192,3 @@ CMIP5.output.NCC.NorESM1-M.rcp85;mon;atmos;Amon;r1i1p1;none;tas;b6c073b0-434a-49
 CMIP5.output.BCC.bcc-csm1-1-m.rcp85;mon;atmos;Amon;r1i1p1;none;tas;d3e31953-43c3-43a5-863d-33f9644caa60;rcp85
 CMIP5.output.BCC.bcc-csm1-1.rcp85;mon;atmos;Amon;r1i1p1;none;tas;3a758b9f-907b-41f9-bb75-a2c81b24b0fc;rcp85
 CMIP5.output.INM.inmcm4.rcp85;mon;atmos;Amon;r1i1p1;none;tas;8601ac7e-0c24-445a-b6e2-19b75988f60d;rcp85
-CMIP5.output.LASG-IAP.FGOALS-s2.rcp85;mon;atmos;Amon;r3i1p1;none;tas;8226df47-de5e-4587-af60-88a49908466f;rcp85
